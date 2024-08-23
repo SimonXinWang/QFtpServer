@@ -70,7 +70,7 @@ Thumbs.db
 *.dll
 *.exe
 
-# Qt intermittent code
+# Qt build intermittent code
 build-Q*
 
 
