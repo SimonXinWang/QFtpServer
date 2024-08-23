@@ -1,7 +1,9 @@
 #ifndef FTPCOMMAND_H
 #define FTPCOMMAND_H
+#include <QSslSocket>
 
 #include <QObject>
+
 
 class QSslSocket;
 

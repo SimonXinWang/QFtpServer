@@ -70,4 +70,14 @@ Thumbs.db
 *.dll
 *.exe
 
+# Qt intermittent code
+build-Q*
 
+
+# VS code
+debug
+release
+Makefile*
+*.pdb
+*.user
+.vs

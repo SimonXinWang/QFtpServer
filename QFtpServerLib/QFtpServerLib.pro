@@ -39,5 +39,9 @@ unix {
     INSTALLS += target
 }
 
+LIBS += /usr/local/ssl/lib/libssl.so
+# LIBS += /usr/local/ssl/lib/libcrypto.a
+LIBS += /usr/local/ssl/lib/libcrypto.so
+
 RESOURCES += \
     certificates.qrc
